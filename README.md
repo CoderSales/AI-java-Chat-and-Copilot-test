@@ -61,3 +61,16 @@ GitHub Copilot Chat
 
 done by
 01:20 remaining
+
+## revision at 00:50 remaining
+
+        this.number = number;
+
+
+PrimeChecker primeChecker = new PrimeChecker(numToCheck);
+
+## + 2 minutes at 23:49 hours
+
+so end at 23:47 hours
+
+so start at 23:32 hours
