@@ -1,2 +1,2 @@
-# AI-java-Chat-andCopilot-test
-AI-java-Chat-andCopilot-test
+# AI-java-Chat-and-Copilot-test
+AI-java-Chat-and-Copilot-test
