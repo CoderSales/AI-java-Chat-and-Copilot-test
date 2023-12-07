@@ -42,3 +42,22 @@ public class PrimeChecker {
 04:10 remaining
 
 after running PrimeChecker.java
+
+## begin revision at 03:15 remaining
+
+## note ahead of time
+
+## during code generation time
+
+time saved using Chat and GitHub CoPilot
+
+## installed
+GitHub Copilot
+and
+simultaneous
+auto
+install of 
+GitHub Copilot Chat
+
+done by
+01:20 remaining
