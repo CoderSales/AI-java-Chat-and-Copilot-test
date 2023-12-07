@@ -36,3 +36,9 @@ public class PrimeChecker {
 }
 
 ```
+
+## time update
+
+04:10 remaining
+
+after running PrimeChecker.java
